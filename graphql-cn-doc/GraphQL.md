@@ -3,13 +3,13 @@ GraphQL
 
 *Working Draft - October 2015*
 
+@
+
 **Introduction**
 
-This is a Draft RFC Specification for GraphQL, a query language created by
-Facebook in 2012 for describing the capabilities and requirements of data models
-for client-server applications. The development of this standard started
-in 2015. GraphQL is a new and evolving language and is not complete. Significant
-enhancement will continue in future editions of this specification.
+这是一份GraphQL（FB于2012年创建的，用来描述客户端数据模型的需求及提升性能的语言）的RFC草案，而这份草案开始于2015年。GraphQL还没有完成，还在不断的进化中的语言，未来肯定会持续的完善。
+
+（版权信息不做翻译）
 
 **Copyright notice**
 

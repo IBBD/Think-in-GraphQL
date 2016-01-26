@@ -1,11 +1,9 @@
 # Overview
 
-GraphQL is a query language designed to build client applications by providing
-an intuitive and flexible syntax and system for describing their data
-requirements and interactions.
+GraphQL是一个查询语言，通过提供直观且灵活的语法和系统来构建客户端程序，而且还能描述它们的数据需求及其相互作用。
 
-For example, this GraphQL request will receive the name of the user with id 4
-from the Facebook implementation of GraphQL.
+例如，这个GraphQL请求将会从GraphQL的服务器端接收id=4的用户名。
+
 
 ```graphql
 {
@@ -15,7 +13,7 @@ from the Facebook implementation of GraphQL.
 }
 ```
 
-Which produces the resulting data (in JSON):
+其返回的结果数据如下:
 
 ```js
 {
