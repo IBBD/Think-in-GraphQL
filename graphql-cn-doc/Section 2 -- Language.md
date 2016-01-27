@@ -5,10 +5,14 @@ We refer to these request sources as documents. A document may contain
 operations (queries and mutations are both operations) as well as fragments, a
 common unit of composition allowing for query reuse.
 
+客户端使用GraphQL查询语言对GraphQL服务发出请求。我们把这些请求源作为文档。一个文档可以会包含操作（查询和变更都是操作），片段，以及允许查询重用的公共的组成单元。
+
 A GraphQL document is defined as a syntactic grammar where terminal symbols are
 tokens (indivisible lexical units). These tokens are defined in a lexical
 grammar which matches patterns of source characters (defined by a
 double-colon `::`).
+
+一个GraphQL文档
 
 
 ## Source Text

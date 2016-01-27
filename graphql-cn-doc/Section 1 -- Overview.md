@@ -87,6 +87,8 @@ can quickly become productive without reading extensive documentation and with
 little or no formal training. To enable that experience, there must be those
 that build those servers and tools.
 
+因为这些特性，GraphQL是构建客户端应用的强大且可以用于生产环境的工具。在GraphQL的帮助下，产品的开发工程师和设计师只需要少量的训练就能够快速的构建产品，而不需要阅读大量的文档。当然，为了获得这些经验，还是的先构建这些服务和工具。
+
 The following formal specification serves as a reference for those builders.
 It describes the language and its grammar, the type system and the
 introspection system used to query it, and the execution and validation engines
@@ -95,3 +97,5 @@ a foundation and framework for an ecosystem of GraphQL tools, client libraries,
 and server implementations -- spanning both organizations and platforms -- that
 has yet to be built. We look forward to working with the community
 in order to do that.
+
+
