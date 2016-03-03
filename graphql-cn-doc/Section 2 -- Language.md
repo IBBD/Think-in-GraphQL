@@ -163,6 +163,8 @@ Names in GraphQL are case-sensitive. That is to say `name`, `Name`, and `NAME`
 all refer to different names. Underscores are significant, which means
 `other_name` and `othername` are two different names.
 
+在GraphQL中，名字是大小写敏感的，下划线也是有意义的。
+
 Names in GraphQL are limited to this <acronym>ASCII</acronym> subset of possible
 characters to support interoperation with as many other systems as possible.
 
